@@ -1,0 +1,171 @@
+#wrapper {
+	background-color: rgb(58, 5, 43);
+	width: 1000px;
+	height: 1200px;
+	padding: 10px;
+}
+
+#header {
+	background-color: rgb(237, 232, 235);
+	padding: 10px;
+	display: inline-block;
+}
+
+#jayneDoe {
+	text-align: left;
+	display: inline-block;
+	font-family: arial;
+	font-size: 32px;
+}
+
+#masterBlock {
+	display: inline;
+	float: right;
+	padding: 30px;
+}
+
+#master {
+	text-align: right;
+	display: inline;
+	font-family: arial;
+	font-size: 20px;
+}
+
+#firstRow {
+	display: inline-block;
+}
+
+#aboutHeader {
+	background-color: rgb(155, 143, 150);
+	vertical-align: top;
+	width: 100%;
+	display: inline-block;
+	font-size: 22px;
+	color: white;
+	font-family: arial;
+}
+
+#about {
+	vertical-align: top;
+}
+
+.firstRowBoxes {
+	background-color: rgb(237, 213, 227); 
+	border-style: solid;
+	border-color: rgb(155, 143, 150);
+	border-width: 10px; 
+	display: inline-block;
+	height: 300px;
+	width: 45%;
+	vertical-align: top;
+	margin: 10px;
+
+}
+
+#actualPicture {
+	height: 300px;
+	width: 100%;
+	display: inline-block;
+}
+
+#picture {
+	display: inline-block;
+}
+
+.aboutText {
+	margin: 10px;
+	font-family: arial;
+}
+
+#aboutTextLink {
+	margin: 10px;
+	font-family: arial;
+}
+
+.secondRowBoxes {
+	background-color: rgb(237, 213, 227); 
+	border-width: 10px; 
+	display: inline-block;
+	height: 700px;
+	width: 27%;
+	vertical-align: top;
+	margin: 10px;
+	border-style: solid;
+	border-color: rgb(155, 143, 150);
+}
+
+.secondRowHeaders {
+	background-color: rgb(155, 143, 150);
+	vertical-align: top;
+	width: 100%;
+	display: inline-block;
+	font-size: 22px;
+	color: white;
+	font-family: arial;
+}
+ .secondRowPictures {
+ 	height: 200px;
+	width: 100%;
+	display: inline-block;
+	vertical-align: top;
+ }
+
+ .secondRowBios {
+ 	margin: 10px;
+	font-family: arial;
+}
+
+.secondRowTechnologies {
+	background-color: rgb(155, 143, 150);
+	vertical-align: top;
+	width: 100%;
+	display: inline-block;
+	font-size: 22px;
+	color: white;
+	font-family: arial;
+}
+
+.technolgyPics {
+	height: 50px;
+	width: 50px;
+	display: inline-block;
+}
+
+.submit {
+	color: white;
+	font-family: Arial;
+	border-radius: 25px;
+	background-color: green;
+    width: 8em;
+    margin: 0 auto;
+    display: block;
+}
+
+#footer {
+	background-color: white;
+}
+#footerFirstRow {
+	background-color: white;
+	margin: 0 auto;
+	display: block;
+	font-family: arial;
+	font-size: 16;
+	text-align: center;
+}
+
+#footerSecondRow {
+	display: block;
+	margin: 0 auto;
+	font-family: arial;
+	font-size: 16;
+	text-align: center;
+}
+
+.footerPics {
+	height: 20px;
+	width: 20px;
+	display: inline-block;
+
+}
+
+
